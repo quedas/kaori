@@ -5,6 +5,7 @@
 Before running this bot, make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (version 16.11.0 or higher)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) (for downloading media for tiktok, twitter etc)
 
 ## Installation
 
