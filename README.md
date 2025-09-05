@@ -45,20 +45,7 @@ Go to the [Discord Developer Portal](https://discord.com/developers/applications
 
 ## Running the Bot
 
-Start the bot with:
-```bash
-npm start
-```
-
-Or if you haven't set up a start script:
+Start The Bot Using:
 ```bash
 node index.js
-```
-
-## Development
-
-For development with auto-restart on file changes, you can use nodemon:
-```bash
-npm install -g nodemon
-nodemon index.js
 ```
