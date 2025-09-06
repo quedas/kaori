@@ -6,8 +6,9 @@ const {
   ActivityType,
 } = require("discord.js");
 
-const tiktokHandler = require("./src/tiktok.js");
-const twitterHandler = require("./src/twitter.js");
+const tiktokHandler = require("./src/socials/tiktok.js");
+const twitterHandler = require("./src/socials/twitter.js");
+const instagramHandler = require("./src/socials/instagram.js");
 
 const kaoribot = new Client({
   intents: [
@@ -31,5 +32,6 @@ kaoribot.once("ready", () => {
 
 tiktokHandler.setup(kaoribot);
 twitterHandler.setup(kaoribot);
+instagramHandler.setup(kaoribot);
 
 kaoribot.login(process.env.DISCORD_TOKEN);
