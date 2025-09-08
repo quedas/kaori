@@ -1,6 +1,7 @@
 # Kaori Discord Bot
 
 [![wakatime](https://wakatime.com/badge/user/5add4576-3bca-45b2-8a1f-4ce09b7f9e08/project/92183f86-efce-482e-a141-a6da1cc9e68c.svg)](https://wakatime.com/badge/user/5add4576-3bca-45b2-8a1f-4ce09b7f9e08/project/92183f86-efce-482e-a141-a6da1cc9e68c)
+
 dont ask...figuring out how to use yt-dlp isnt for the weak...
 
 ## Prerequisites
